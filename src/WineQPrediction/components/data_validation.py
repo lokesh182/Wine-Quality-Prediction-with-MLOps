@@ -13,7 +13,7 @@ class DataValidation:
         try:
             validation_status = False
             
-            data = pd.read_csv("data-cleaned.csv")
+            data = pd.read_csv(self.config.unzip_data_dir)
             all_cols = list(data.columns)
             
             all_schema = self.config.all_schema.keys()

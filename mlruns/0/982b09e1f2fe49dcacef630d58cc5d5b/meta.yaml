@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ML%20PROJECTS/Wine-Quality-Prediction-with-MLOps/mlruns/0/982b09e1f2fe49dcacef630d58cc5d5b/artifacts
+end_time: 1717403723880
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 982b09e1f2fe49dcacef630d58cc5d5b
+run_name: unruly-cow-450
+run_uuid: 982b09e1f2fe49dcacef630d58cc5d5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717403715053
+status: 4
+tags: []
+user_id: lokes

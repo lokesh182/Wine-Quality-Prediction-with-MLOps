@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ML%20PROJECTS/Wine-Quality-Prediction-with-MLOps/mlruns/0/7959fa17d36d463faac4c18c5e66fdb8/artifacts
+end_time: 1717403876475
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7959fa17d36d463faac4c18c5e66fdb8
+run_name: victorious-cow-342
+run_uuid: 7959fa17d36d463faac4c18c5e66fdb8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717403868438
+status: 4
+tags: []
+user_id: lokes
