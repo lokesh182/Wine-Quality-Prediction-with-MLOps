@@ -5,7 +5,6 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 from WineQPrediction.entity.config_entity import DataTransformationConfig
-
 from imblearn.over_sampling import SMOTE
 
 class DataTransformation:
@@ -24,7 +23,7 @@ class DataTransformation:
         print(f"No of good vs bad vine Samples :{data['good_quality'].value_counts()}")
         
         return data
-       
+    
     
     def train_test_splitting(self):
         data1 = self.feature_selection()
@@ -50,6 +49,7 @@ class DataTransformation:
         data1 = self.feature_selection()
         
         train , test = train_test_split(data1)
+        
         
         train.to_csv(os.path.join(self.config.root_dir, 'train.csv'),index=False)
         test.to_csv(os.path.join(self.config.root_dir, 'test.csv'),index=False)

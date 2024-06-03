@@ -14,5 +14,5 @@ COLUMNS:
   good_quality: int64
 
 
-  TARGET_COLUMN: 
-    name: quality
+TARGET_COLUMN: 
+    name: good_quality
