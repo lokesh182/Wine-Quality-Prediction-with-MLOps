@@ -1,6 +1,6 @@
-# Wine-Quality-Prediction-with-MLOps
+# Wine-Quality-Prediction-with-MLOps🍷
 
-## Experiment Tracking and Model Comparison
+## Experiment Tracking and Model Comparison📶 
 
 ### Experiments
 ![Experiments performed](ML2.png)
