@@ -1,9 +1,11 @@
 # Wine-Quality-Prediction-with-MLOps
 
 ## Experiment Tracking and Model Comparison
+
+### Experiments
 ![Experiments performed](ML2.png)
 
-
+### Parameters Comparison of Elasticnet Model
 ![Parameters Comparison of Elasticnet Model](ML1.png)
 
 ## workflows
