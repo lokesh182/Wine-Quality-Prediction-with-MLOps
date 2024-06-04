@@ -1,5 +1,11 @@
 # Wine-Quality-Prediction-with-MLOps
 
+## Experiment Tracking and Model Comparison
+![Experiments performed](ML2.png)
+
+
+![Parameters Comparison of Elasticnet Model](ML1.png)
+
 ## workflows
 
 1. Update config.yaml
